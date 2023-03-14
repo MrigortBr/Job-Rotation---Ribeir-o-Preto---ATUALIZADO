@@ -1,16 +1,16 @@
 # Job-Rotation---Ribeir-o-Preto---ATUALIZADO
 Resposta do questinonario
 
-## Primeira Questao
+## Primeira Questão
 
 - PrimeiraQuestao.js  
 - CodigoOtimizadoPrimeiraQuestao.js
 
-## Segunda Questao
+## Segunda Questão
 
 - SegundaQuestao.py
 
-## Terceira Questao
+## Terceira Questão
 A - 9  
 B - 128   
 C - 49  
@@ -18,7 +18,7 @@ D - 100
 E - 13  
 F - 20  
 
-## Quarta Questao
+## Quarta Questão
 distancia_total = 100 * 2 = 200 km
 
 tempo_caminhao = distancia_total / velocidade_caminhao = 200 / 80 = 2,5 horas
@@ -32,6 +32,6 @@ distancia_caminhao = velocidade_caminhao * tempo_caminhao_total = 80 * 2,6667 = 
 **Resposta:** Portanto, podemos concluir que o carro estará mais próximo da cidade de Ribeirão Preto, 
 já que ele terá percorrido uma distância maior do que o caminhão até o ponto de encontro.
 
-## Quinta Questao
+## Quinta Questão
 
 - QuintaQuestao.jar
